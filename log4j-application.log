@@ -1,0 +1,52 @@
+2018-06-28 10:56:17 ERROR controller:102 - com.verdantis.bank.exceptionB.ResourseNotFoundException: NO SUCH ACCOUNT
+2018-06-28 10:57:02 ERROR controller:105 - com.verdantis.bank.exceptionB.ResourseNotFoundException: NO SUCH ACCOUNT
+2018-06-28 11:09:30 ERROR controller:110 - com.verdantis.bank.exceptionB.ResourseNotFoundException: NO SUCH ACCOUNT
+2018-06-28 11:11:46 ERROR controller:66 - com.verdantis.bank.exceptionB.InvalidBalanceException: INVALID BALANCE
+2018-06-28 11:12:35 ERROR controller:66 - com.verdantis.bank.exceptionB.InvalidBalanceException: INVALID BALANCE
+2018-06-28 11:23:15 ERROR controller:186 - java.util.InputMismatchException
+2018-06-28 11:23:15 ERROR controller:46 - java.util.InputMismatchException
+2018-06-28 11:24:46 ERROR controller:190 - java.util.InputMismatchException
+2018-06-28 11:24:46 ERROR controller:46 - java.util.InputMismatchException
+2018-06-28 11:25:19 ERROR controller:66 - com.verdantis.bank.exceptionB.InvalidBalanceException: INVALID BALANCE
+2018-06-28 12:32:59 ERROR controller:91 - java.util.InputMismatchException
+2018-06-28 12:33:00 ERROR controller:431 - ExceptionConverter: java.io.IOException: The document has no pages.
+2018-06-28 12:33:00 ERROR controller:23 - java.util.InputMismatchException
+2018-06-28 12:34:16 ERROR controller:92 - java.util.InputMismatchException
+2018-06-28 12:34:16 ERROR controller:23 - java.util.InputMismatchException
+2018-06-28 12:34:31 ERROR controller:431 - ExceptionConverter: java.io.IOException: The document has no pages.
+2018-06-28 12:41:15 ERROR controller:141 - com.verdantis.bank.exceptionB.ResourseNotFoundException: NO SUCH ACCOUNT
+2018-06-28 12:41:15 ERROR controller:431 - ExceptionConverter: java.io.IOException: The document has no pages.
+2018-06-28 12:44:56 ERROR controller:141 - com.verdantis.bank.exceptionB.ResourseNotFoundException: NO SUCH ACCOUNT
+2018-06-28 12:45:24 ERROR controller:141 - com.verdantis.bank.exceptionB.ResourseNotFoundException: NO SUCH ACCOUNT
+2018-06-28 13:03:49 ERROR controller:145 - com.verdantis.bank.exceptionB.ResourseNotFoundException: NO SUCH ACCOUNT
+2018-06-28 13:04:24 ERROR controller:66 - com.verdantis.bank.exceptionB.InvalidBalanceException: INVALID BALANCE
+2018-06-28 13:10:29 ERROR controller:431 - java.io.FileNotFoundException: tran118.pdf (The process cannot access the file because it is being used by another process)
+2018-06-28 13:10:34 ERROR controller:23 - java.util.NoSuchElementException
+2018-06-28 13:58:23 ERROR controller:431 - java.io.FileNotFoundException: tran118.pdf (The process cannot access the file because it is being used by another process)
+2018-06-28 13:58:31 ERROR controller:144 - com.verdantis.bank.exceptionB.ResourseNotFoundException: NO SUCH ACCOUNT
+2018-06-28 13:58:31 ERROR controller:431 - ExceptionConverter: java.io.IOException: The document has no pages.
+2018-06-28 13:58:51 ERROR controller:144 - com.verdantis.bank.exceptionB.ResourseNotFoundException: NO SUCH ACCOUNT
+2018-06-28 13:58:56 ERROR controller:431 - java.io.FileNotFoundException: tran118.pdf (The process cannot access the file because it is being used by another process)
+2018-06-28 13:59:27 ERROR controller:144 - com.verdantis.bank.exceptionB.ResourseNotFoundException: NO SUCH ACCOUNT
+2018-06-28 13:59:27 ERROR controller:431 - ExceptionConverter: java.io.IOException: The document has no pages.
+2018-06-28 14:00:13 ERROR controller:144 - com.verdantis.bank.exceptionB.ResourseNotFoundException: NO SUCH ACCOUNT
+2018-06-28 14:00:18 ERROR controller:144 - com.verdantis.bank.exceptionB.ResourseNotFoundException: NO SUCH ACCOUNT
+2018-06-28 14:00:21 ERROR controller:431 - java.io.FileNotFoundException: tran118.pdf (The process cannot access the file because it is being used by another process)
+2018-06-28 14:00:30 ERROR controller:144 - com.verdantis.bank.exceptionB.ResourseNotFoundException: NO SUCH ACCOUNT
+2018-06-28 14:00:30 ERROR controller:431 - ExceptionConverter: java.io.IOException: The document has no pages.
+2018-06-28 14:01:12 ERROR controller:431 - java.io.FileNotFoundException: tran118.pdf (The process cannot access the file because it is being used by another process)
+2018-06-28 14:01:15 ERROR controller:145 - com.verdantis.bank.exceptionB.ResourseNotFoundException: NO SUCH ACCOUNT
+2018-06-28 14:01:25 ERROR controller:145 - com.verdantis.bank.exceptionB.ResourseNotFoundException: NO SUCH ACCOUNT
+2018-06-28 14:01:36 ERROR controller:145 - com.verdantis.bank.exceptionB.ResourseNotFoundException: NO SUCH ACCOUNT
+2018-06-28 14:05:06 ERROR controller:92 - java.util.InputMismatchException
+2018-06-28 14:05:06 ERROR controller:145 - com.verdantis.bank.exceptionB.ResourseNotFoundException: NO SUCH ACCOUNT
+2018-06-28 14:05:06 ERROR controller:24 - java.util.InputMismatchException
+2018-06-28 14:05:33 ERROR controller:145 - com.verdantis.bank.exceptionB.ResourseNotFoundException: NO SUCH ACCOUNT
+2018-06-28 14:06:38 ERROR controller:104 - java.util.InputMismatchException
+2018-06-28 14:06:38 ERROR controller:24 - java.util.InputMismatchException
+2018-06-28 14:06:52 ERROR controller:145 - com.verdantis.bank.exceptionB.ResourseNotFoundException: NO SUCH ACCOUNT
+2018-06-28 14:28:10 ERROR controller:200 - java.util.InputMismatchException
+2018-06-28 14:28:10 ERROR controller:24 - java.util.InputMismatchException
+2018-06-28 14:28:56 ERROR controller:200 - java.util.InputMismatchException
+2018-06-28 14:28:56 ERROR controller:25 - java.util.InputMismatchException
+2018-06-28 14:29:49 ERROR controller:110 - com.verdantis.bank.exceptionB.InvalidBalanceException: INVALID BALANCE
